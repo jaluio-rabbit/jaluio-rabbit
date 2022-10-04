@@ -9,7 +9,7 @@
 
 <h2>Hallo!</h2>
 
-<div>
+<div dir="auto" style="display: flex;justify-content: space-around;">
    <ul>
       <li>One</li>
       <li>Second</li>
